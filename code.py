@@ -1,5 +1,5 @@
+# Task 1
 from collections import Counter
-
 class user(object):
     def __init__(self):
         self.total = 0
